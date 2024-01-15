@@ -1,4 +1,4 @@
-# [level Lv.3] 네트워크 - 43162 
+# [level 3] 네트워크 - 43162 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) 
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 1월 1일 18:15:57
+2024년 1월 6일 2:0:20
 
 ### 문제 설명
 
