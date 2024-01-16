@@ -1,4 +1,4 @@
-# [level 3] 야근 지수 - 12927 
+# [level Lv.3] 야근 지수 - 12927 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12927) 
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 1월 6일 2:0:32
+2024년 1월 2일 11:10:52
 
 ### 문제 설명
 
